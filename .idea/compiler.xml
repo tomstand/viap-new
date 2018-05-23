@@ -9,10 +9,12 @@
         <module name="viap-api" />
         <module name="viap-center" />
         <module name="viap-config" />
-        <module name="viap-config-client" />
         <module name="viap-gate" />
         <module name="viap-web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="viap-config-client" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
