@@ -9,6 +9,7 @@
         <module name="viap-api" />
         <module name="viap-center" />
         <module name="viap-config" />
+        <module name="viap-config-client" />
         <module name="viap-gate" />
         <module name="viap-web" />
       </profile>

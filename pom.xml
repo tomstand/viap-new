@@ -13,6 +13,7 @@
         <module>viap-web</module>
         <module>viap-gate</module>
         <module>viap-config</module>
+        <module>viap-config-client</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -29,14 +29,14 @@ public class TestController {
         return r;
     }
 
-    @Value("${from}")
-    private String from;
-
-    @RequestMapping("/from")
-    public String from() {
-
-        return this.from;
-    }
+//    @Value("${from}")
+//    private String from;
+//
+//    @RequestMapping("/from")
+//    public String from() {
+//
+//        return this.from;
+//    }
 
 
 }
